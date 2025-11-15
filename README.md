@@ -45,7 +45,7 @@ Ikuti langkah-langkah ini untuk menjalankan aplikasi di lingkungan lokal (sepert
 
 1.  **Clone Repository:**
     ```bash
-    git clone [LINK_REPOSITORY_ANDA] ukkxii
+    git clone [https://github.com/ObatNyamukFC/ukkxii/] ukkxii
     cd ukkxii
     ```
 2.  **Konfigurasi Database:**
