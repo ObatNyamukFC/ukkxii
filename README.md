@@ -45,11 +45,11 @@ Ikuti langkah-langkah ini untuk menjalankan aplikasi di lingkungan lokal (sepert
 
 1.  **Clone Repository:**
     ```bash
-    git clone [LINK_REPOSITORY_ANDA] ukk_inventaris
-    cd ukk_inventaris
+    git clone [LINK_REPOSITORY_ANDA] ukkxii
+    cd ukkxii
     ```
 2.  **Konfigurasi Database:**
-    * Buat database baru (misalnya, `ukk_inventaris`).
+    * Buat database baru (misalnya, `ukkxii`).
     * Lakukan *Import* skema database Anda (termasuk tabel `pengguna`, `barang`, `kategori`, `peminjaman`, dan `detail_peminjaman`).
 3.  **Atur Koneksi:**
     * Buka file **`src/shared/config/database.php`**.
@@ -59,13 +59,13 @@ Ikuti langkah-langkah ini untuk menjalankan aplikasi di lingkungan lokal (sepert
     $DB_HOST = 'localhost';
     $DB_USER = 'root';
     $DB_PASS = ''; 
-    $DB_NAME = 'ukk_inventaris'; 
+    $DB_NAME = 'ukkxii'; 
     ```
 4.  **Akses Aplikasi:**
-    * Akses aplikasi melalui browser: `http://localhost/ukk_inventaris/public/` (sesuaikan dengan *path* Anda).
+    * Akses aplikasi melalui browser: `http://localhost/ukkxii/public/` (sesuaikan dengan *path* Anda).
 
 ---
 
 ## 👥 Kontributor
 
-* [Nama Anda] - Developer Utama
+* [Arli Maulana] - Developer Utama
